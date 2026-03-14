@@ -19,3 +19,7 @@ A multi-user desktop contact manager built with Python and Tkinter.
 ## How to Run
 
 python login.py
+=======
+# python-contact-manager
+Contact Manager
+>>>>>>> bf675f2d09169760bd3c1e6eb4263a8d94a8abc6
